@@ -1,0 +1,17 @@
+/*	IMPLEMENTAÇÃO DO SISTEMA DE ARQUIVOS T2FS
+
+	INSTITUTO DE INFORMÁTICA - UFRGS
+	Implementação do Trabalho Prático 2 
+	da disciplina de Sistemas Operacionais IN
+	
+	Autores:	Átila R. Costa
+				Guilherme Delazeri
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+#include "../include/t2fs.h"
+#include "../include/bitmap2.h"
+#include "../include/apidisk.h"
+
+
